@@ -1,1 +1,0 @@
-cpack rubymine/RubyMine.nuspec
